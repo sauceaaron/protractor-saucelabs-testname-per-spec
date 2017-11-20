@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/sauceaaron/protractor-saucelabs-testname-per-spec/issues"
   },
-  "homepage": "https://github.com/sauceaaron/protractor-saucelabs-testname-per-spec#readme"
+  "homepage": "https://github.com/sauceaaron/protractor-saucelabs-testname-per-spec#readme",
+  "devDependencies": {
+    "protractor": "^5.2.0"
+  }
 }
