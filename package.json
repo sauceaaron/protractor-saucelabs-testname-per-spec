@@ -1,0 +1,29 @@
+{
+  "name": "protractor-saucelabs-testname-per-spec",
+  "version": "1.0.0",
+  "description": "Enable protractor tests run in Sauce Labs to update the test name to match the spec name",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "protractor sauce.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sauceaaron/protractor-saucelabs-testname-per-spec.git"
+  },
+  "keywords": [
+    "Protractor",
+    "Jasmine",
+    "Selenium",
+    "Sauce",
+    "Labs"
+  ],
+  "author": "Aaron Evans <aaron.evans@saucelabs.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/sauceaaron/protractor-saucelabs-testname-per-spec/issues"
+  },
+  "homepage": "https://github.com/sauceaaron/protractor-saucelabs-testname-per-spec#readme"
+}
