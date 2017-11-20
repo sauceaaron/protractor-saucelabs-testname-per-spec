@@ -4,7 +4,7 @@ Enable Protractor tests run in Sauce Labs to update the test name to match the s
 You can use a custom Jasmine reporter to call the Sauce Labs javascript executor onPrepare
 
 
-	```
+
 	onPrepare: function() {
 		jasmine.getEnv().addReporter({
 			specStarted: function(result) {
@@ -12,4 +12,3 @@ You can use a custom Jasmine reporter to call the Sauce Labs javascript executor
 			}
 		});
 	}
-	```
