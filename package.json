@@ -27,6 +27,6 @@
   },
   "homepage": "https://github.com/sauceaaron/protractor-saucelabs-testname-per-spec#readme",
   "devDependencies": {
-    "protractor": "^5.2.0"
+    "protractor": "^5.4.0"
   }
 }
